@@ -8,6 +8,9 @@
 
 ---
 
+<img width="935" height="439" alt="image" src="https://github.com/user-attachments/assets/70d9821a-9eb5-4752-a477-24664ebe8089" />
+
+
 ## Project Description
 
 Fieldnotes is a responsive outdoor-gear landing page
